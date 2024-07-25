@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\controllers\\unicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:controllers\\unicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\queries\\albaxobraquerycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:queries\\albaxobraquerycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\services\\impl\\operacionesserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:services\\impl\\operacionesserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\dtos\\albaxobradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:dtos\\albaxobradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\queries\\newalbanilequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:queries\\newalbanilequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\dtos\\albaniledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:dtos\\albaniledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\mappings\\mapperclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:mappings\\mapperclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\repositories\\reporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:repositories\\reporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\repositories\\impl\\reporepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:repositories\\impl\\reporepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\services\\operacionesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:services\\operacionesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\model\\albanile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:model\\albanile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\data\\contextbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:data\\contextbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\model\\albanilesxobra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:model\\albanilesxobra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\dtos\\tiposobradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:dtos\\tiposobradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\dtos\\obrasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:dtos\\obrasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\model\\tiposobra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:model\\tiposobra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\model\\obra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:model\\obra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|c:\\users\\juan_\\onedrive\\escritorio\\practica\\practica0\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A839CD9B-420F-493B-A749-CB3FC00291C0}|practica0.csproj|solutionrelative:response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\appsettings.Development.json*",
+              "RelativeToolTip": "appsettings.Development.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T06:05:16.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T03:53:32.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewAlbanileQuery.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Queries\\NewAlbanileQuery.cs",
+              "RelativeDocumentMoniker": "Queries\\NewAlbanileQuery.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Queries\\NewAlbanileQuery.cs",
+              "RelativeToolTip": "Queries\\NewAlbanileQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:46:53.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlbaXObraQuerycs.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Queries\\AlbaXObraQuerycs.cs",
+              "RelativeDocumentMoniker": "Queries\\AlbaXObraQuerycs.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Queries\\AlbaXObraQuerycs.cs",
+              "RelativeToolTip": "Queries\\AlbaXObraQuerycs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:21:08.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlbaXObraDto.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\DTOs\\AlbaXObraDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AlbaXObraDto.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\DTOs\\AlbaXObraDto.cs",
+              "RelativeToolTip": "DTOs\\AlbaXObraDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:23:00.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperacionesServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Services\\Impl\\OperacionesServiceImpl.cs",
+              "RelativeDocumentMoniker": "Services\\Impl\\OperacionesServiceImpl.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Services\\Impl\\OperacionesServiceImpl.cs",
+              "RelativeToolTip": "Services\\Impl\\OperacionesServiceImpl.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAUwDEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:42:12.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnicoController.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Controllers\\UnicoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UnicoController.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Controllers\\UnicoController.cs",
+              "RelativeToolTip": "Controllers\\UnicoController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBkAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:29:29.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlbanileDto.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\DTOs\\AlbanileDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AlbanileDto.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\DTOs\\AlbanileDto.cs",
+              "RelativeToolTip": "DTOs\\AlbanileDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:44:44.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MapperClass.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Mappings\\MapperClass.cs",
+              "RelativeDocumentMoniker": "Mappings\\MapperClass.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Mappings\\MapperClass.cs",
+              "RelativeToolTip": "Mappings\\MapperClass.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:28:40.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepoRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Repositories\\Impl\\RepoRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Repositories\\Impl\\RepoRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Repositories\\Impl\\RepoRepositoryImpl.cs",
+              "RelativeToolTip": "Repositories\\Impl\\RepoRepositoryImpl.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:33:11.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAD4vzMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:18:09.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Repositories\\RepoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepoRepository.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Repositories\\RepoRepository.cs",
+              "RelativeToolTip": "Repositories\\RepoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:31:24.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OperacionesService.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Services\\OperacionesService.cs",
+              "RelativeDocumentMoniker": "Services\\OperacionesService.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Services\\OperacionesService.cs",
+              "RelativeToolTip": "Services\\OperacionesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:37:39.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Albanile.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Model\\Albanile.cs",
+              "RelativeDocumentMoniker": "Model\\Albanile.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Model\\Albanile.cs",
+              "RelativeToolTip": "Model\\Albanile.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:44:52.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContextBD.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Data\\ContextBD.cs",
+              "RelativeDocumentMoniker": "Data\\ContextBD.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Data\\ContextBD.cs",
+              "RelativeToolTip": "Data\\ContextBD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:17:13.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AlbanilesXObra.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Model\\AlbanilesXObra.cs",
+              "RelativeDocumentMoniker": "Model\\AlbanilesXObra.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Model\\AlbanilesXObra.cs",
+              "RelativeToolTip": "Model\\AlbanilesXObra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:20:35.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TiposObra.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Model\\TiposObra.cs",
+              "RelativeDocumentMoniker": "Model\\TiposObra.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Model\\TiposObra.cs",
+              "RelativeToolTip": "Model\\TiposObra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:40:36.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ObrasDto.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\DTOs\\ObrasDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ObrasDto.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\DTOs\\ObrasDto.cs",
+              "RelativeToolTip": "DTOs\\ObrasDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:38:48.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TiposObraDto.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\DTOs\\TiposObraDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\TiposObraDto.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\DTOs\\TiposObraDto.cs",
+              "RelativeToolTip": "DTOs\\TiposObraDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:40:22.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Obra.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Model\\Obra.cs",
+              "RelativeDocumentMoniker": "Model\\Obra.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Model\\Obra.cs",
+              "RelativeToolTip": "Model\\Obra.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:35:13.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:29:48.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Response\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\juan_\\OneDrive\\Escritorio\\practica\\practica0\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "Response\\ApiResponse.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:22:18.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
